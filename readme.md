@@ -147,5 +147,5 @@ Engineered by a developer building a real-world JARVIS-style assistant.
 
 | Platform | Link |
 | --- | --- |
-| YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
-| Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
+| YouTube | [@notspideypie](https://www.youtube.com/@notspideypie) |
+| Instagram | [@not.real.shoumik](https://www.instagram.com/not.real.shoumik) |
